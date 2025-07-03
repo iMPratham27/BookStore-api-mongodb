@@ -1,0 +1,16 @@
+{
+  "name": "bookstore-api",
+  "version": "1.0.0",
+  "description": "Book store api using in-memory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
